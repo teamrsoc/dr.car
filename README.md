@@ -1,11 +1,17 @@
 
 This website has been developed as a part of #StartInCollege entrepreneurship campain by Startup Village(sv.co)
 			Developed by - Team RSOC
+			
 			Jerin Joseph
+			
 			Vishnu Biju
+			
 			Vishnu Viswanathan
+			
 			Ashams Mathew
+			
 			Angela Anne Cyriac
+			
 
 It is an interactive as well as a responsive website to help a user to find a car that best suits his needs. 
 HTML contents are listed under the html folder.
